@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #FFFAFA; /* Rosa mais escuro */
+    background-color: #FFFAFA; 
     color: #000000;
     font-family: 'Inter', sans-serif;
 }
@@ -50,7 +50,7 @@ nav {
 }
 
 .menu a:hover {
-    color: #FFD1DC; /* Rosa claro no hover */
+    color: #FFD1DC; 
     border-bottom: 2px solid #DB7093;
 }
 
@@ -65,7 +65,7 @@ main {
 }
 
 .principal {
-    background-color: #F5F5DC; /* Rosa claro */
+    background-color: #F5F5DC; 
 }
 
 .hero {
@@ -93,11 +93,11 @@ main {
 }
 
 .marrom {
-    color: #C94F7C; /* Tom rosa queimado */
+    color: #C94F7C; 
 }
 
 .amarelo {
-    color: #FFD1DC; /* Tom rosa bem claro como destaque */
+    color: #FFD1DC; 
 }
 
 .hero-image-container {
@@ -188,7 +188,7 @@ hr {
     justify-content: space-between;
     gap: 1.2rem;
     
-    box-shadow: 0 4px 12px rgba(233, 30, 99, 0.2); /* rosa suave com transparência */
+    box-shadow: 0 4px 12px rgba(233, 30, 99, 0.2); 
 
 }
 
